@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\gen\modulo_1\Poliformismo\Petshop\obj\Debug\net5.0\Petshop.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\gen\modulo_1\Poliformismo\Petshop\obj\Debug\net5.0\Petshop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\gen\modulo_1\Poliformismo\Petshop\obj\Debug\net5.0\Petshop.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\gen\modulo_1\Poliformismo\Petshop\obj\Debug\net5.0\Petshop.AssemblyInfo.cs
+C:\Users\User\Desktop\gen\modulo_1\Poliformismo\Petshop\obj\Debug\net5.0\Petshop.csproj.CoreCompileInputs.cache

@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\exercicios1\Exercicioimc\Exercicioimc\bin\Debug\net5.0\Exercicioimc.exe
+C:\Users\User\Desktop\exercicios1\Exercicioimc\Exercicioimc\bin\Debug\net5.0\Exercicioimc.deps.json
+C:\Users\User\Desktop\exercicios1\Exercicioimc\Exercicioimc\bin\Debug\net5.0\Exercicioimc.runtimeconfig.json
+C:\Users\User\Desktop\exercicios1\Exercicioimc\Exercicioimc\bin\Debug\net5.0\Exercicioimc.runtimeconfig.dev.json
+C:\Users\User\Desktop\exercicios1\Exercicioimc\Exercicioimc\bin\Debug\net5.0\Exercicioimc.dll
+C:\Users\User\Desktop\exercicios1\Exercicioimc\Exercicioimc\bin\Debug\net5.0\Exercicioimc.pdb
+C:\Users\User\Desktop\exercicios1\Exercicioimc\Exercicioimc\obj\Debug\net5.0\Exercicioimc.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\exercicios1\Exercicioimc\Exercicioimc\obj\Debug\net5.0\Exercicioimc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\exercicios1\Exercicioimc\Exercicioimc\obj\Debug\net5.0\Exercicioimc.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\exercicios1\Exercicioimc\Exercicioimc\obj\Debug\net5.0\Exercicioimc.AssemblyInfo.cs
+C:\Users\User\Desktop\exercicios1\Exercicioimc\Exercicioimc\obj\Debug\net5.0\Exercicioimc.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\exercicios1\Exercicioimc\Exercicioimc\obj\Debug\net5.0\Exercicioimc.dll
+C:\Users\User\Desktop\exercicios1\Exercicioimc\Exercicioimc\obj\Debug\net5.0\refint\Exercicioimc.dll
+C:\Users\User\Desktop\exercicios1\Exercicioimc\Exercicioimc\obj\Debug\net5.0\Exercicioimc.pdb
+C:\Users\User\Desktop\exercicios1\Exercicioimc\Exercicioimc\obj\Debug\net5.0\Exercicioimc.genruntimeconfig.cache
+C:\Users\User\Desktop\exercicios1\Exercicioimc\Exercicioimc\obj\Debug\net5.0\ref\Exercicioimc.dll
